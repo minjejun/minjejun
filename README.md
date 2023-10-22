@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=006600&height=200&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0ABF53&height=200&section=header)
 
 ## Hi there, I'm Min Jejun, Android Developer!! 👋
 - Android Deveoper를 목표로, Kotlin을 사용한 Android Native Application 개발 공부 중에 있습니다.
