@@ -11,8 +11,6 @@
 - <b>Apartmentary</b> - QA Engineer(2025.04 ~ ing)
   
 ## <i>Contact.</i> 
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/minjejun"></a>
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@jejun_"></a>
-<img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black&link=https://jejjun.notion.site/Software-QA-Engineer-16c125f2814280cca513cec091f7ae59?pvs=4"><br>
-  
-
+<a href="link=https://github.com/minjejun"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://velog.io/@jejun_"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://jejjun.notion.site/Software-QA-Engineer-16c125f2814280cca513cec091f7ae59?pvs=4">"><img src="https://img.shields.io/badge/notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black"></a>
