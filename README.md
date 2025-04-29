@@ -8,7 +8,7 @@
 
 - <b>Likelion</b> - Android App School 2th(2023.12 ~ 2024.06)
 - <b>Likelion</b> - QA Engineer Intern(2024.12 ~ 2025.03)
-- <b>Apartmentary</b> - QA Engineer(2025.04 ~ ing)
+- <b>Apartmentary</b> - Software QA Engineer(2025.04 ~ ing)
   
 ## <i>Contact.</i> 
 <a href="https://github.com/minjejun"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
